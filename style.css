@@ -222,6 +222,8 @@ nav {
 
 .text-center {
     font-weight: 700;
+    color: white;
+    opacity: 1;
 }
 
 #services {
@@ -333,7 +335,7 @@ nav {
         right: 0;
     }
 
-    nav .navigation ul li a {
+    nav .collapse-navbar-collapse ul li a {
         color: white;
     }
 }
@@ -347,6 +349,13 @@ nav {
     .portfolio-card {
       padding: 2vw, 20vw;
 
+    }
+
+
+    .text-center {
+        font-weight: 700;
+        color: white;
+        opacity: 1;
     }
 
 }
