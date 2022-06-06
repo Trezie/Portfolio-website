@@ -341,6 +341,11 @@ nav {
 }
 
 @media (max-width:475px) {
+
+    body {
+        background-image: linear-gradient(rgba(9, 5, 54, 0.3), rgba(5, 4, 46, 0.8)),
+        url("images/bgimage.jpg");
+    }
     .card-portfolioContent {
         
         
