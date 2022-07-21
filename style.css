@@ -128,7 +128,7 @@ nav {
 }
 /* text css above hero image*/
 .hero_title {
-    margin-top: 600px;
+    margin-top: 500px;
     font-size: 4.5rem;
     display: inline-block;
     flex: 1;
@@ -353,7 +353,7 @@ nav {
     }    
 
     .hero_title {
-        margin-top: 550px;
+        margin-top: 500px;
         font-size: 4.5rem;
     }
 
