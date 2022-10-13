@@ -103,6 +103,10 @@ nav {
     padding-right: 10vw;
 }
 
+.collapse-navbar-collapse .navbar-nav {
+    margin-right: 30px;
+}
+
 #menu-btn {
     color: #11076b;
     width: 10px;
