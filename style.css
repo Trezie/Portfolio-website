@@ -324,8 +324,10 @@ nav {
         padding: 0 10px;
         position: absolute;
         top: 0;
+        left: 230px;
+       
         right: -250px;
-        width: 350px;
+        width: 220px;
         height: 100vh;
         backdrop-filter: blur(4.5px);
         background-color: rgb(17, 20, 104, 0.45);
