@@ -321,10 +321,11 @@ nav {
     }
 
     nav .collapse-navbar-collapse ul {
+        padding: 0 10px;
         position: absolute;
         top: 0;
-        right: -220px;
-        width: 220px;
+        right: -250px;
+        width: 350px;
         height: 100vh;
         backdrop-filter: blur(4.5px);
         background-color: rgb(17, 20, 104, 0.45);
@@ -337,7 +338,7 @@ nav {
     }
 
     nav .collapse-navbar-collapse ul.active {
-        right: 0;
+        right: inherit;
     }
 
     nav .collapse-navbar-collapse ul li a {
